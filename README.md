@@ -1,49 +1,52 @@
-# VitalForce - Product Landing Page
+<p align="center">
+  <a href="https://nca-gabriel.github.io/VitalForce/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2936/2936886.png" alt="VitalForce Demo" width="300"/>
+  </a>
+</p>
 
-[Live Demo](https://nca-gabriel.github.io/VitalForce/)
+<h1 align="center">VitalForce</h1>
 
-## Overview
-**VitalForce** is a responsive product landing page designed for a fitness platform. The page showcases key features, how the product works, and pricing plans. This project was created as part of the [FreeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/).
+<p align="center">
+  <a href="https://nca-gabriel.github.io/VitalForce/" target="_blank">Live Demo</a> • 
+  <a href="#project-description">Project Description</a> • 
+  <a href="#features">Features</a> • 
+  <a href="#tech-stack">Tech Stack</a> • 
+  <a href="#installation">Installation</a> • 
+  <a href="#usage">Usage</a>
+</p>
 
-The landing page uses **HTML and CSS** and includes interactive elements such as a subscription form and a video placeholder.
+<img src="https://github.com/nca-gabriel/VitalForce/blob/master/Screenshot%202025-09-01%20223823.png" alt="" align="center" width="auto" height="auto">
+---
+
+## Project Description
+
+**VitalForce** is a **responsive product landing page** designed for a fitness platform.  
+It highlights the product’s **features, pricing plans, and how it works**, with a clean and modern layout.  
+
+🔗 [Live Demo](https://nca-gabriel.github.io/VitalForce/)
 
 ---
 
 ## Features
 
-- **Responsive Design** – Works seamlessly on desktop, tablet, and mobile screens.  
-- **Hero Section** – Eye-catching headline with a call-to-action email form.  
-- **Features Section** – Highlights product features with icons and descriptions.  
-- **How It Works Section** – Shows a video thumbnail representing product demonstration.  
-- **Pricing Section** – Displays multiple subscription plans with clear pricing and selection options.  
+- **Responsive Design** – Works seamlessly on desktop, tablet, and mobile screens  
+- **Hero Section** – Eye-catching headline with a subscription form  
+- **Features Section** – Showcases product benefits with icons and descriptions  
+- **How It Works Section** – Displays a video thumbnail as a demo placeholder  
+- **Pricing Section** – Clear pricing plans with selection buttons  
 
 ---
 
-## Technologies Used
+## Tech Stack
 
-- HTML5  
-- CSS3  
-- GitHub Pages for deployment  
-
----
-
-
-## Deployment
-
-The project is deployed via GitHub Pages:  
-[https://nca-gabriel.github.io/VitalForce/](https://nca-gabriel.github.io/VitalForce/)
+- **Markup & Styling**: HTML5, CSS3  
+- **Deployment**: GitHub Pages  
+- **Icons**: Flaticon  
 
 ---
 
-## Notes
+## Installation
 
-- The video section currently uses a **placeholder image** for demonstration purposes.  
-- All icons are sourced from [Flaticon](https://www.flaticon.com/).  
-- The email form is linked to FreeCodeCamp’s test form for submission.
-
----
-
-## License
-
-This project is for educational purposes and free to use for learning and portfolio display.
-
+```bash
+git clone https://github.com/nca-gabriel/VitalForce.git
+cd VitalForce
